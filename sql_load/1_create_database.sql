@@ -1,0 +1,1 @@
+CREATE DATABASE sql_data_analysis_project;
